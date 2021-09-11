@@ -1,1 +1,3 @@
  - git checkout -b test
+
+ git checkout (branch name ) to change branch
