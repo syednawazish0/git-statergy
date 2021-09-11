@@ -1,1 +1,3 @@
 -Opening a saving account into icici with 50000 deposite.
+- Opening saving account with zero balance.
+- Compulsory Document
